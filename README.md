@@ -1,5 +1,4 @@
-# Final_Project
-<!DOCTYPE html>
+<--! <!DOCTYPE html>
 <html lang="en">
    <head>
       <!-- basic -->
@@ -28,7 +27,7 @@
       <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css">
       <!-- fonts -->
       <link href="https://fonts.googleapis.com/css?family=Great+Vibes|Open+Sans:400,700&display=swap&subset=latin-ext" rel="stylesheet">
-      <!-- owl stylesheets --> 
+      <!-- owl stylesheets -->
       <link rel="stylesheet" href="css/owl.carousel.min.css">
       <link rel="stylesheet" href="css/owl.theme.default.min.css">
       <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.5/jquery.fancybox.min.css" media="screen">
@@ -517,18 +516,19 @@
       <!-- sidebar -->
       <script src="js/jquery.mCustomScrollbar.concat.min.js"></script>
       <script src="js/custom.js"></script>
-      <!-- javascript --> 
+      <!-- javascript -->
       <script src="js/owl.carousel.js"></script>
-      <script src="https:cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.5/jquery.fancybox.min.js"></script>  
+      <script src="https:cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.5/jquery.fancybox.min.js"></script>
       <script src="https://unpkg.com/gijgo@1.9.13/js/gijgo.min.js" type="text/javascript"></script>
       <script>
          function openNav() {
            document.getElementById("mySidenav").style.width = "100%";
          }
-         
+
          function closeNav() {
            document.getElementById("mySidenav").style.width = "0";
          }
-      </script> 
+      </script>
    </body>
-</html>
+</html> 
+-->
